@@ -1,0 +1,5 @@
+project: deku
+target: read_write
+
+cmds:
+  - cmd: /fuzzers/read_write
